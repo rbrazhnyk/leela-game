@@ -1,1 +1,1 @@
-# leela-game
+# Leela game
